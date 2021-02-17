@@ -1,4 +1,4 @@
-FROM ghost:3.35.5-alpine
+FROM ghost:3.41.5-alpine
 
 WORKDIR $GHOST_INSTALL
 
